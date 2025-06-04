@@ -1,0 +1,1 @@
+# dockercli-nodecli-awscli-container-image
